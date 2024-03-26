@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Geospatial Centroid
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
