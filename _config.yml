@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Geospatial Centroid
+author: #
+description: Sharing Content. <br>  <a href='https://geospatialcentroid.github.io/vitis/home'>Vitis Home Page</a> 
 
 exclude:
   - Gemfile
