@@ -8,7 +8,7 @@ title: #
 
 > All information presented on this site is in draft format and will be updated.
 
-#### Produced on 2023-03-21
+#### Produced on 2023-04-28
 
 **Data sets will not include any records after  2024-01-20**
 
@@ -21,7 +21,6 @@ The evaluations maps can be used to access the quality of county and location ba
 <a href="Vitis arizonica_Evaluation2.html"  target="_blank">  Vitis arizonica</a>  
 <a href="Vitis baileyana_Evaluation2.html"  target="_blank">  Vitis baileyana</a>  
 <a href="Vitis berlandieri_Evaluation2.html"  target="_blank">  Vitis berlandieri</a>  
-<a href="Vitis biformis_Evaluation2.html"  target="_blank">  Vitis biformis</a>  
 <a href="Vitis californica_Evaluation2.html"  target="_blank">  Vitis californica</a>  
 <a href="Vitis cinerea_Evaluation2.html"  target="_blank">  Vitis cinerea</a>  
 <a href="Vitis girdiana_Evaluation2.html"  target="_blank">  Vitis girdiana</a>  
@@ -39,8 +38,6 @@ The evaluations maps can be used to access the quality of county and location ba
 <a href="Vitis rupestris_Evaluation2.html"  target="_blank">  Vitis rupestris</a>  
 <a href="Vitis shuttleworthii_Evaluation2.html"  target="_blank">  Vitis shuttleworthii</a>  
 <a href="Vitis simpsoniia_Evaluation2.html"  target="_blank">  Vitis simpsonii</a>  
-<a href="Vitis tiliifolia_Evaluation2.html"  target="_blank">  Vitis tiliifolia</a>  
-<a href="Vitis vinifera_Evaluation2.html"  target="_blank">  Vitis vinifera</a>  
 <a href="Vitis vulpina_Evaluation2.html"  target="_blank">  Vitis vulpina</a>  
 <a href="Vitis x champinii_Evaluation2.html"  target="_blank">  Vitis x champinii</a>  
 <a href="Vitis x doaniana_Evaluation2.html"  target="_blank">  Vitis Vitis x doaniana</a>  
