@@ -6,13 +6,16 @@ title: #
 
 [Vitis Home Page](home)
 
-> All information presented on this site is in draft format and will be updated.
+> Information on the maps will be updated on Friday afternoons in June. Any suggestions made in July or later may not be intergated into the publication effort. 
 
-#### Produced on 2023-04-28
+#### Produced on 2023-05-24
 
 **Data sets will not include any records after  2024-01-20**
 
 The evaluations maps can be used to access the quality of county and location based occurrence data for a given species. 
+For a description on how to use these assessment tools please reference the following 
+<a href="https://youtu.be/UE9V71hoZ5E?si=-2_f-2L9QhMLLUDK"  target="_blank">  video</a> or contact Dan Carver [carverd@colostate.edu]  directly. 
+
 
 <a href="Vitis acerifolia_Evaluation2.html"  target="_blank">  Vitis acerifolia</a>  
 <a href="Vitis aestivalis_Evaluation2.html"  target="_blank">  Vitis aestivalis</a>  
@@ -41,7 +44,10 @@ The evaluations maps can be used to access the quality of county and location ba
 <a href="Vitis vulpina_Evaluation2.html"  target="_blank">  Vitis vulpina</a>  
 <a href="Vitis x champinii_Evaluation2.html"  target="_blank">  Vitis x champinii</a>  
 <a href="Vitis x doaniana_Evaluation2.html"  target="_blank">  Vitis Vitis x doaniana</a>  
-<a href="Vitis x novae-angliae_Evaluation2.html"  target="_blank">  Vitis Vitis x novae-angliae</a>  
+<a href="Vitis x novae-angliae_Evaluation2.html"  target="_blank">  Vitis Vitis x novae-angliae</a> 
+<br>
+<img src="logoBannner.png" alt="Supporting Organizations" style="width: 100%">
+<br>
 
   
     
