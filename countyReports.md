@@ -4,11 +4,19 @@ title: #
 ---
 # County Evaluation reports 
 
+<img src="logobanner.png" alt="Supporting Organizations" style="width: 100%">
+<br>
+
+<strong style="text-align: center;">This project is a collaboration among the [United States Botanic Garden](https://www.usbg.gov/), [San Diego Botanic Garden](https://sdbg.org/), [USDA ARS](https://www.ars.usda.gov/),  [Geospatial Centroid](https://gis.colostate.edu/) at Colorado State Univeristy, and [NatureServe](https://www.natureserve.org/). We are all grateful for your time and consideration in this evaluation effort. </strong>
+
+
 [Vitis Home Page](home)
+
+For a overview of the project aims and a summary of how to contribute preview review this <a href="https://docs.google.com/document/d/1lldozq2KBMbIGV2EKv8ur0BUqn6IenV3ilbQRkyu0yM/edit?usp=sharing"  target="_blank"> document.</a>
 
 > Information on the maps will be updated on Friday afternoons in June. Any suggestions made in July or later may not be intergated into the publication effort. 
 
-#### Produced on 2023-05-24
+#### Produced on 2023-05-28
 
 **Data sets will not include any records after  2024-01-20**
 
