@@ -8,13 +8,18 @@ title: #
 
 > All information presented on this site is in draft format and will be updated.
 
-**Summary pages we last updated on  2024-01-31**
+**Summary pages we last updated on  2024-06-15**
 
 ## Genus Level report 
 
 Includes a figure and species richness map for all species currently modeled. 
 
-<a href="run20231227_Summary.html" target="_blank"> Run Summary </a> 
+<a href="run20240614_Summary.html" target="_blank"> Run Summary </a> 
+
+Summary figure showing the distribution of species across the individual predictors used within the modeling effort. 
+
+<a href="run20240614_boxPlotSummary.html" target="_blank"> Box Plot Summary </a> 
+
   
 ## Individual Taxon reports 
 
