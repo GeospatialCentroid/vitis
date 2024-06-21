@@ -43,7 +43,9 @@ Summary figure showing the distribution of species across the individual predict
 <a href="Vitis bourgaeana_Summary.html" target="_blank"> Vitis bourgaeana </a>   
 
 <a href="Vitis californica_Summary.html" target="_blank"> Vitis californica </a>   
+
 <a href="Vitis cinerea_Summary.html" target="_blank"> Vitis cinerea </a>   
+
 <a href="Vitis girdiana_Summary.html" target="_blank"> Vitis girdiana </a>   
 
 <a href="Vitis labrusca_Summary.html" target="_blank"> Vitis labrusca </a>   
