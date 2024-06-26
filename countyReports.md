@@ -14,9 +14,9 @@ title: #
 
 For a overview of the project aims and a summary of how to contribute preview review this <a href="https://docs.google.com/document/d/1lldozq2KBMbIGV2EKv8ur0BUqn6IenV3ilbQRkyu0yM/edit?usp=sharing"  target="_blank"> document.</a>
 
-> Information on the maps will be updated on Friday afternoons in June. Any suggestions made in July or later may not be intergated into the publication effort. 
+Information on the maps will be updated on Friday afternoons throughout the review period. Any suggestions made after the review period may not integrated into the publication but we will do our best to include them in the finalized map products. 
 
-#### Produced on 2023-05-28
+#### Produced on 2024-06-26
 
 **Data sets will not include any records after  2024-01-20**
 
