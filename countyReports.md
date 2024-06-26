@@ -53,9 +53,6 @@ For a description on how to use these assessment tools please reference the foll
 <a href="Vitis x champinii_Evaluation2.html"  target="_blank">  Vitis x champinii</a>  
 <a href="Vitis x doaniana_Evaluation2.html"  target="_blank">  Vitis Vitis x doaniana</a>  
 <a href="Vitis x novae-angliae_Evaluation2.html"  target="_blank">  Vitis Vitis x novae-angliae</a> 
-<br>
-<img src="logoBannner.png" alt="Supporting Organizations" style="width: 100%">
-<br>
 
   
     
