@@ -8,6 +8,69 @@ title: #
 
 > All information presented on this site is in draft format and will be updated.
 
+
+### 2024 11 05 update 
+
+We getting very close to finalizing results for the project. The following examples showcase the difference in results after applying the following data filters. 
+
+ 1. A state level filter is applied based on Flora of North America desiginated habitat. Any points outside of this area are excluded. This filter only applies to the United States. All data from Mexico and Canada is included.  
+ 2. Any occurrence data that was flag by the county review as "Exclude" or "Questionable" was removed from the analysis. 
+
+
+**current run** : FNA filter and community evaluation applied 
+
+**previous run** : data filter by geographic variables only (has lat lon and within CA,US,MX )
+
+
+#### Vitis acerifolia
+
+current run : <a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a> 
+
+previous run : <a href="Vitis acerifolia_Summary.html" target="_blank"> Vitis acerifolia </a>   
+
+
+#### Vitis aestivalis
+
+current run : <a href="Vitis aestivalis_Summary_fnaFilter.html" target="_blank"> Vitis aestivalis </a> 
+
+previous run : <a href="Vitis aestivalis_Summary.html" target="_blank"> Vitis aestivalis </a>   
+
+
+#### Vitis rupestris
+
+current run : <a href="Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a> 
+
+previous run : <a href="Vitis rupestris_Summary.html" target="_blank"> Vitis rupestris </a>   
+
+
+#### Vitis Vulpina 
+
+current run : <a href="Vitis rupestris_Vulpina_fnaFilter.html" target="_blank"> Vitis rupestris </a> 
+
+previous run : <a href="Vitis rupestris_Vulpina.html" target="_blank"> Vitis rupestris </a>   
+
+
+## Genus level Summaries 
+
+### Conservation Assessments 
+
+current run : <a href="run20241029_Summary.html" target="_blank"> conservation gap analysis summary </a> 
+
+previous run : <a href="run20240614_Summary.html" target="_blank"> conservation gap analysis summary </a>
+
+### Details on Indicators 
+
+This might take a long time to load... 
+
+current run : <a href="run20241029_boxPlotSummary.html" target="_blank"> Ecogeographic Characterization </a> 
+
+previous run : <a href="run20240614_boxPlotSummary.html" target="_blank"> Ecogeographic Characterization </a>
+
+
+
+
+<!--
+
 **Summary pages we last updated on  2024-08-14**
 
 ## Genus Level report 
@@ -83,4 +146,4 @@ Summary figure showing the distribution of species across the individual predict
 <a href="Vitis vulpina_Summary.html" target="_blank"> Vitis vulpina </a>   
 
 <a href="Vitis x novae-angliae_Summary.html" target="_blank"> Vitis x novae-angliae </a>   
-
+--> 
