@@ -45,9 +45,9 @@ previous run : <a href="Vitis rupestris_Summary.html" target="_blank"> Vitis rup
 
 #### Vitis Vulpina 
 
-current run : <a href="Vitis rupestris_Vulpina_fnaFilter.html" target="_blank"> Vitis rupestris </a> 
+current run : <a href="Vitis vulpina_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a> 
 
-previous run : <a href="Vitis rupestris_Vulpina.html" target="_blank"> Vitis rupestris </a>   
+previous run : <a href="Vitis vulpina_Summary.html" target="_blank"> Vitis rupestris </a>   
 
 
 ## Genus level Summaries 
