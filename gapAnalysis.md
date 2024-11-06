@@ -28,13 +28,13 @@ current run : <a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank">
 
 previous run : <a href="Vitis acerifolia_Summary.html" target="_blank"> Vitis acerifolia </a>   
 
-
+<!--
 #### Vitis aestivalis
 
 current run : <a href="Vitis aestivalis_Summary_fnaFilter.html" target="_blank"> Vitis aestivalis </a> 
 
 previous run : <a href="Vitis aestivalis_Summary.html" target="_blank"> Vitis aestivalis </a>   
-
+-->
 
 #### Vitis rupestris
 
@@ -45,9 +45,9 @@ previous run : <a href="Vitis rupestris_Summary.html" target="_blank"> Vitis rup
 
 #### Vitis Vulpina 
 
-current run : <a href="Vitis vulpina_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a> 
+current run : <a href="Vitis vulpina_Summary_fnaFilter.html" target="_blank"> Vitis vulpina </a> 
 
-previous run : <a href="Vitis vulpina_Summary.html" target="_blank"> Vitis rupestris </a>   
+previous run : <a href="Vitis vulpina_Summary.html" target="_blank"> Vitis vulpina </a>   
 
 
 ## Genus level Summaries 
