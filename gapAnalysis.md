@@ -9,86 +9,30 @@ title: #
 > All information presented on this site is in draft format and will be updated.
 
 
-### 2024 11 15 update 
+### 2024 12 06 update 
 
-The following model run include the details from the 11-05 update plus an additional spatial filting process. 
+The following model run include the details from the 11-05 update plus an adapted spatial filting process. 
 
 
-Spatial filter was performed by the `spthin` package. The method was applied different for different types of input data. As the spatial thining is meant to influence the modeling effort, all maps and conservation measures are presented with all data. The spatially thinned data is only applied to the model runs. 
-
+Spatial filter was performed by the `spthin` package.
 
 
 - 1. All Germplasm records we kept for the modeling process as these represent the high confidence observations 
 
 - 2. All herbarium records where spatial thinned to a distance of 5km. 
 
-- 3. All H type records based on inaturalist reserach grade observations were spatial thinned to a distance of 10km. 
-
-There is not a rigid standard for what distance should be applied when utilixing the spthin package. Source recommend 10km, a distance related more toward you environmental variables or some distanct from your knowledge of the species.  For our case, we are using two spatial thining weights (5km and 10km). 5km represents the cell size of the environmental data. 10km matches the generic, though not agreeable standard distance. By assigin the lower value to the assume higher quality dataset source of herberium records we will across all species be keeping more of the herbarium records for the modeling process then the inaturalist records which are thinned to 10km. 
-
-
-
-
-
-### 2024 11 05 update 
-
-We getting very close to finalizing results for the project. The following examples showcase the difference in results after applying the following data filters. 
-
- 1. A state level filter is applied based on Flora of North America desiginated habitat. Any points outside of this area are excluded. This filter only applies to the United States. All data from Mexico and Canada is included.  
- 2. Any occurrence data that was flag by the county review as "Exclude" or "Questionable" was removed from the analysis. 
-
-
-**current run** : Spatial Thinning, FNA filter and community evaluation applied 
-
-**previous run** : data filter by geographic variables only (has lat lon and within CA,US,MX )
-
-
-#### Vitis acerifolia
-
-current run : <a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a> 
-
-previous run : <a href="Vitis acerifolia_Summary.html" target="_blank"> Vitis acerifolia </a>   
-
-
-#### Vitis aestivalis
-
-current run : <a href="Vitis aestivalis_Summary_fnaFilter.html" target="_blank"> Vitis aestivalis </a> 
-
-previous run : <a href="Vitis aestivalis_Summary.html" target="_blank"> Vitis aestivalis </a>   
-
-#### Vitis rupestris
-
-current run : <a href="Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a> 
-
-previous run : <a href="Vitis rupestris_Summary.html" target="_blank"> Vitis rupestris </a>   
-
-
-#### Vitis Vulpina 
-
-current run : <a href="Vitis vulpina_Summary_fnaFilter.html" target="_blank"> Vitis vulpina </a> 
-
-previous run : <a href="Vitis vulpina_Summary.html" target="_blank"> Vitis vulpina </a>   
-
-
-**the full list of species is found below**
-
 
 ## Genus level Summaries 
 
 ### Conservation Assessments 
 
-current run : <a href="run20241029_Summary.html" target="_blank"> conservation gap analysis summary </a> 
-
-previous run : <a href="run20240614_Summary.html" target="_blank"> conservation gap analysis summary </a>
+current run : <a href="run20241204_Summary.html" target="_blank"> conservation gap analysis summary </a> 
 
 ### Details on Indicators 
 
 This might take a long time to load... 
 
-current run : <a href="run20241029_boxPlotSummary.html" target="_blank"> Ecogeographic Characterization </a> 
-
-previous run : <a href="run20240614_boxPlotSummary.html" target="_blank"> Ecogeographic Characterization </a>
-
+current run : <a href="run20241204_boxPlotSummary.html" target="_blank"> Ecogeographic Characterization </a> 
 
 ### individual species model run (spatially thinned and FNA filter )
 
@@ -151,6 +95,16 @@ previous run : <a href="run20240614_boxPlotSummary.html" target="_blank"> Ecogeo
 <a href="Vitis vulpina_Summary_fnaFilter.html" target="_blank"> Vitis vulpina </a>   
 
 <a href="Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank"> Vitis x novae-angliae </a>   
+
+
+### 2024 11 05 update 
+
+We getting very close to finalizing results for the project. The following examples showcase the difference in results after applying the following data filters. 
+
+ 1. A state level filter is applied based on Flora of North America desiginated habitat. Any points outside of this area are excluded. This filter only applies to the United States. All data from Mexico and Canada is included.  
+ 2. Any occurrence data that was flag by the county review as "Exclude" or "Questionable" was removed from the analysis. 
+
+
 
 
 <!--
