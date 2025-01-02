@@ -9,6 +9,15 @@ title: #
 > All information presented on this site is in draft format and will be updated.
 
 
+
+### 2025 01 02 update 
+
+1k and 2.5km map compare : <a href="compare1k_2.5k.html" target="_blank"> Map Comparison </a> 
+
+
+
+
+
 ### 2024 12 06 update 
 
 The following model run include the details from the 11-05 update plus an adapted spatial filting process. 
