@@ -95,7 +95,9 @@ current run : <a href="run20241204_boxPlotSummary.html" target="_blank"> Ecogeog
 
 <a href="Vitis rotundifolia var. rotundifolia_Summary_fnaFilter.html" target="_blank"> Vitis rotundifolia var. rotundifolia </a>  
 
-<a href="Vitis rotundifolia var. Vitis rupestrisrotundifolia_Summary_fnaFilter.html" target="_blank"> Vitis rotundifolia var. Vitis rupestrisrotundifolia </a>   
+<a href="Vitis rufotomentosa_Summary_fnaFilter.html" target="_blank"> Vitis rufotomentosa </a>   
+
+<a href="Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a>   
 
 <a href="Vitis shuttleworthii_Summary_fnaFilter.html" target="_blank"> Vitis shuttleworthii </a>   
 
