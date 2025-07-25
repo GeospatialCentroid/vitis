@@ -18,49 +18,34 @@ title: #
 - maps on summary html are resampling to 5km for display purposes. We can provide original resoluation data, just cant display it do to file size limitations of the leaflet maps used to display spatial data in the htmls.
 
 
-"Vitis labrusca moved"
 <a href="Vitis labrusca_Summary_fnaFilter.html" target="_blank"> Vitis labrusca </a>   
 
-"Vitis riparia moved"
 <a href="Vitis riparia_Summary_fnaFilter.html" target="_blank"> Vitis riparia </a>   
 
-"Vitis arizonica moved"
 <a href="Vitis arizonica_Summary_fnaFilter.html" target="_blank"> Vitis arizonica </a>   
 
-"Vitis californica moved"
 <a href="Vitis californica_Summary_fnaFilter.html" target="_blank"> Vitis californica </a>   
 
-"Vitis girdiana moved"
 <a href="Vitis girdiana_Summary_fnaFilter.html" target="_blank"> Vitis girdiana </a>   
 
-"Vitis acerifolia moved"
 <a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a>   
 
-"Vitis berlandieri moved"
 <a href="Vitis berlandieri_Summary_fnaFilter.html" target="_blank"> Vitis berlandieri </a>   
 
-"Vitis cinerea moved"
 <a href="Vitis cinerea_Summary_fnaFilter.html" target="_blank"> Vitis cinerea </a>   
 
-"Vitis monticola moved"
 <a href="Vitis monticola_Summary_fnaFilter.html" target="_blank"> Vitis monticola </a>   
 
-"Vitis rupestris moved"
 <a href="Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a>   
 
-"Vitis mustangensis moved"
 <a href="Vitis mustangensis_Summary_fnaFilter.html" target="_blank"> Vitis mustangensis </a>   
 
-"Vitis cinerea var. tomentosa moved"
 <a href="Vitis cinerea_Summary_fnaFilter.html" target="_blank"> Vitis cinerea </a>   
 
-"Vitis biformis moved"
 <a href="Vitis biformis_Summary_fnaFilter.html" target="_blank"> Vitis biformis </a>   
 
-"Vitis bloodworthiana moved"
 <a href="Vitis bloodworthiana_Summary_fnaFilter.html" target="_blank"> Vitis bloodworthiana </a>   
 
-"Vitis jaegeriana moved"
 <a href="Vitis jaegeriana_Summary_fnaFilter.html" target="_blank"> Vitis jaegeriana </a>   
 
 
