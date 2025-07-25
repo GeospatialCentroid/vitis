@@ -25,9 +25,9 @@ species with no lat lon do no have generate html summaries at this point
 
 Review Data 
 
-<a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a>   
-
 <a href="Vitis arizonica_Summary_fnaFilter.html" target="_blank"> Vitis arizonica </a>   
+
+<a href="Vitis bloodworthiana_Summary_fnaFilter.html" target="_blank"> Vitis bloodworthiana </a>   
 
 <a href="Vitis californica_Summary_fnaFilter.html" target="_blank"> Vitis californica </a>   
 
