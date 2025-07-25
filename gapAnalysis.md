@@ -18,17 +18,20 @@ title: #
 - maps on summary html are resampling to 5km for display purposes. We can provide original resoluation data, just cant display it do to file size limitations of the leaflet maps used to display spatial data in the htmls.
 
 
-<a href="Vitis labrusca_Summary_fnaFilter.html" target="_blank"> Vitis labrusca </a>   
-
-<a href="Vitis riparia_Summary_fnaFilter.html" target="_blank"> Vitis riparia </a>   
+<a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a>   
 
 <a href="Vitis arizonica_Summary_fnaFilter.html" target="_blank"> Vitis arizonica </a>   
 
 <a href="Vitis californica_Summary_fnaFilter.html" target="_blank"> Vitis californica </a>   
 
-<a href="Vitis girdiana_Summary_fnaFilter.html" target="_blank"> Vitis girdiana </a>   
+<a href="Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a>   
 
-<a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a>   
+
+<!--
+
+<a href="Vitis girdiana_Summary_fnaFilter.html" target="_blank"> Vitis girdiana </a>   
+<a href="Vitis labrusca_Summary_fnaFilter.html" target="_blank"> Vitis labrusca </a>   
+
 
 <a href="Vitis berlandieri_Summary_fnaFilter.html" target="_blank"> Vitis berlandieri </a>   
 
@@ -48,7 +51,7 @@ title: #
 
 <a href="Vitis jaegeriana_Summary_fnaFilter.html" target="_blank"> Vitis jaegeriana </a>   
 
-
+--> 
 
 ### 2025 01 02 update 
 
