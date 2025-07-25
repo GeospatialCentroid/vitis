@@ -18,6 +18,13 @@ title: #
 - maps on summary html are resampling to 5km for display purposes. We can provide original resoluation data, just cant display it do to file size limitations of the leaflet maps used to display spatial data in the htmls.
 
 
+species with no lat lon do no have generate html summaries at this point 
+- Vitis rufotomentosa
+- Vitis x champinii
+- Vitis x doaniana
+
+Review Data 
+
 <a href="Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a>   
 
 <a href="Vitis arizonica_Summary_fnaFilter.html" target="_blank"> Vitis arizonica </a>   
@@ -25,6 +32,30 @@ title: #
 <a href="Vitis californica_Summary_fnaFilter.html" target="_blank"> Vitis californica </a>   
 
 <a href="Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris </a>   
+
+Should be good but have reviewed directly 
+
+<a href="Vitis biformis_Summary_fnaFilter.html" target="_blank"> Vitis biformis </a>   
+
+<a href="Vitis blancoi_Summary_fnaFilter.html" target="_blank"> Vitis blancoi </a>   
+
+<a href="Vitis bourgaeana_Summary_fnaFilter.html" target="_blank"> Vitis bourgaeana </a>   
+
+<a href="Vitis cinerea var. tomentosa_Summary_fnaFilter.html" target="_blank"> Vitis cinerea var. tomentosa </a>   
+
+<a href="Vitis jaegeriana_Summary_fnaFilter.html" target="_blank"> Vitis jaegeriana </a>   
+
+<a href="Vitis nesbittiana_Summary_fnaFilter.html" target="_blank"> Vitis nesbittiana </a>   
+
+<a href="Vitis peninsularis_Summary_fnaFilter.html" target="_blank"> Vitis peninsularis </a>   
+
+<a href="Vitis popenoei_Summary_fnaFilter.html" target="_blank"> Vitis popenoei </a>   
+
+<a href="Vitis rotundifolia var. pygmaea_Summary_fnaFilter.html" target="_blank"> Vitis rotundifolia var. pygmaea </a>   
+
+<a href="Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank"> Vitis x novae-angliae </a>   
+
+
 
 
 <!--
