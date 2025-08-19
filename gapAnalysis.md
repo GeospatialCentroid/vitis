@@ -8,6 +8,96 @@ title: #
 > All information presented on this site is in draft format and will be updated.
 
 
+### 2025 08 19 update 
+- added additional data on mexican species 
+
+- improved capture of data on Vitis x species  
+
+- Expanded lat lon filters to include both north and south america 
+
+- remove most datasets that utilities the 2018 data pulls 
+
+- new model and conservation assessments 
+
+- updated taxonomy and synonym listing 
+
+- species with no 
+
+
+<a href="m/Vitis acerifolia_Summary_fnaFilter.html" target="_blank"> Vitis acerifolia </a>   
+
+<br> 
+<a href="m/Vitis baileyana_Summary_fnaFilter.html" target="_blank"> Vitis baileyana </a>   
+<br> 
+<a href="m/Vitis berlandieri_Summary_fnaFilter.html" target="_blank"> Vitis berlandieri </a>   
+<br> 
+<a href="m/Vitis biformis_Summary_fnaFilter.html" target="_blank"> Vitis biformis </a>   
+<br> 
+<a href="m/Vitis blancoi_Summary_fnaFilter.html" target="_blank"> Vitis blancoi </a>   
+<br> 
+<a href="m/Vitis bloodworthiana_Summary_fnaFilter.html" target="_blank"> Vitis bloodworthiana </a>   
+<br> 
+<a href="m/Vitis bourgaeana_Summary_fnaFilter.html" target="_blank"> Vitis bourgaeana </a>   
+
+<br> 
+<a href="m/Vitis cinerea var. cinerea_Summary_fnaFilter.html" target="_blank"> Vitis cinerea var. cinerea </a>   
+<br> 
+<a href="m/Vitis cinerea var. tomentosa_Summary_fnaFilter.html" target="_blank"> Vitis cinerea var. tomentosa </a>   
+
+<br> 
+<a href="m/Vitis jaegeriana_Summary_fnaFilter.html" target="_blank"> Vitis jaegeriana </a> 
+<br> 
+<a href="m/Vitis lincecumii_Summary_fnaFilter.html" target="_blank"> Vitis lincecumii </a>   
+<br> 
+<a href="m/Vitis monticola_Summary_fnaFilter.html" target="_blank"> Vitis monticola </a>   
+<br> 
+<a href="m/Vitis munsoniana_Summary_fnaFilter.html" target="_blank"> Vitis munsoniana </a>  
+
+<br> 
+<a href="m/Vitis nesbittiana_Summary_fnaFilter.html" target="_blank"> Vitis nesbittiana </a>  
+<br> 
+<a href="m/Vitis palmata_Summary_fnaFilter.html" target="_blank"> Vitis palmata</a>   
+<br>
+<a href="m/Vitis peninsularis_Summary_fnaFilter.html" target="_blank"> Vitis peninsularis</a>   
+<br> 
+<a href="m/Vitis popenoei_Summary_fnaFilter.html" target="_blank"> Vitis popenoei</a>  
+<br> 
+<a href="m/Vitis rufotomentosa_Summary_fnaFilter.html" target="_blank">Vitis rufotomentosa</a>  
+<br> 
+<a href="m/Vitis rupestris_Summary_fnaFilter.html" target="_blank"> Vitis rupestris</a>   
+<br> 
+<a href="m/Vitis shuttleworthii_Summary_fnaFilter.html" target="_blank"> Vitis shuttleworthii</a>   
+<br> 
+<a href="m/Vitis simpsonii_Summary_fnaFilter.html" target="_blank"> Vitis simpsonii</a>   
+<br> 
+<a href="m/Vitis tiliifolia_Summary_fnaFilter.html" target="_blank"> Vitis tiliifolia</a>   
+<br> 
+<a href="m/Vitis x champinii_Summary_fnaFilter.html" target="_blank"> Vitis x champinii</a>   
+<br> 
+<a href="m/Vitis x doaniana_Summary_fnaFilter.html" target="_blank"> Vitis x doaniana</a>   
+<br> 
+<a href="m/Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank"> Vitis x novae-angliae</a>   
+
+
+**not modeled yet --- links will pull up files from previous run, list hear as place holded** 
+<br> 
+<a href="Vitis vulpina_Summary_fnaFilter.html" target="_blank"> Vitis vulpina</a>   
+<br> 
+<a href="Vitis rotundifolia_Summary_fnaFilter.html" target="_blank"> Vitis rotundifolia</a>   
+<br> 
+<a href="Vitis riparia_Summary_fnaFilter.html" target="_blank"> Vitis riparia</a>   
+<br> 
+<a href="Vitis rotundifolia var. pygmaea_Summary_fnaFilter.html" target="_blank"> Vitis rotundifolia var. pygmaea</a>   
+<br> 
+<a href="Vitis mustangensis_Summary_fnaFilter.html" target="_blank"> Vitis mustangensis </a>
+<br> 
+<a href="Vitis cinerea_Summary_fnaFilter.html" target="_blank"> Vitis cinerea </a>   
+<br> 
+<a href="Vitis girdiana_Summary_fnaFilter.html" target="_blank"> Vitis girdiana </a>   
+<br> 
+<a href="Vitis californica_Summary_fnaFilter.html" target="_blank"> Vitis californica </a>   
+
+
 ### 2025 08 01 update 2
 
 
