@@ -7,16 +7,10 @@ title: #
 [Vitis Home Page](home)
 > All information presented on this site is in draft format and will be updated.
 
-### 2025 09 25 update 
-
-- improved FNA filter to capture locations where state/county was not define in attributed data for points 
-
-- resolved model runs for all species 
-  - largest area species required 6 rather than 10 model iterations due to memory allocation issues with 1km models 
-
-- added northern and southern lat lon filter to account for european or poor lat lon values in data 
-
-- update the run summary to render the 1km results, all maps resampled to 5km resolution 
+## 2025-10-10 update 
+- small edits to individual species error 
+- rerun of genus level summaries 
+- 
 
 
 ## Genus Level Summary 
@@ -122,6 +116,17 @@ title: #
 <a href="m/Vitis x doaniana_Summary_fnaFilter.html" target="_blank"> Vitis x doaniana</a>   
 <br> 
 <a href="m/Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank"> Vitis x novae-angliae</a>   
+
+### 2025 09 25 update 
+
+- improved FNA filter to capture locations where state/county was not define in attributed data for points 
+
+- resolved model runs for all species 
+  - largest area species required 6 rather than 10 model iterations due to memory allocation issues with 1km models 
+
+- added northern and southern lat lon filter to account for european or poor lat lon values in data 
+
+- update the run summary to render the 1km results, all maps resampled to 5km resolution 
 
 
 
