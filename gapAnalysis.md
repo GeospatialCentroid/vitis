@@ -93,8 +93,6 @@ title: #
 <br> 
 <a href="m/Vitis riparia_Summary_fnaFilter.html" target="_blank"> Vitis riparia</a>  
 <br> 
-<a href="m/Vitis rubriflora_Summary_fnaFilter.html" target="_blank"> Vitis rubriflora</a>  
-<br> 
 <a href="m/Vitis rotundifolia_Summary_fnaFilter.html" target="_blank"> Vitis rotundifolia</a>  
 <br> 
 <a href="m/Vitis rubriflora_Summary_fnaFilter.html" target="_blank"> Vitis rubriflora</a>  
