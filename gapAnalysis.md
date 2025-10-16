@@ -7,6 +7,11 @@ title: #
 [Vitis Home Page](home)
 > All information presented on this site is in draft format and will be updated.
 
+## 2025-10-16 update 
+- added missing ERSex ecos to the map 
+- resolved some visualization issues on summary docs 
+- updated the ecogeographic charactistic summary 
+
 ## 2025-10-10 update 
 - small edits to individual species error 
 - rerun of genus level summaries 
