@@ -7,6 +7,16 @@ title: #
 [Vitis Home Page](home)
 > All information presented on this site is in draft format and will be updated.
 
+
+## 2025-11-30 update 
+- improved the map visualization when scores are conservation metric 100 or zero 
+- added a missing eco visualization for the ERS maps 
+- added more table summaries to describe data used in model/SRSex measures 
+- some text edit to ensure methods descriptions match the updated processes 
+
+
+
+
 ## 2025-10-16 update 
 - added missing ERSex ecos to the map 
 - resolved some visualization issues on summary docs 
