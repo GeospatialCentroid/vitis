@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title: Vitis Gap Analysis and Species Distribution Models 
 ---
 <style>
