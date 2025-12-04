@@ -32,13 +32,6 @@ title: Vitis Gap Analysis and Species Distribution Models
     object-fit: cover;   /* Crops image to fit */
     display: block;
   }
-
-  /* Stack images only on very small mobile screens */
-  @media (max-width: 768px) {
-    .image-banner {
-      grid-template-columns: 1fr; 
-    }
-  }
   .species-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
