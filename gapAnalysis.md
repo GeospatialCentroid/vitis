@@ -3,36 +3,6 @@ layout: null
 title: Vitis Gap Analysis and Species Distribution Models 
 ---
 <style>
-  /* =========================================
-     1. SITE LAYOUT (Widen the Page)
-     ========================================= */
-  .container, .wrapper, .main-content, .site {
-      max-width: 95% !important; /* Uses 95% of the screen width */
-      width: 100% !important;
-      padding-left: 20px !important;
-      padding-right: 20px !important;
-  }
-
-  /* Specific fix for the "Minimal" theme sidebar/content split */
-  @media screen and (min-width: 64em) {
-     .wrapper {
-        display: flex; /* Ensures sidebar and content sit side-by-side */
-        gap: 40px;     /* Space between sidebar and main content */
-     }
-     header { 
-        width: 250px !important; /* Keep sidebar fixed width */
-        flex-shrink: 0; 
-     }
-     section { 
-        width: auto !important; 
-        flex-grow: 1; 
-        max-width: none !important;
-     }
-  }
-
-  /* =========================================
-     2. IMAGE BANNER (Horizontal Layout)
-     ========================================= */
   .image-banner {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* FORCES 3 COLUMNS */
@@ -69,10 +39,6 @@ title: Vitis Gap Analysis and Species Distribution Models
       grid-template-columns: 1fr; 
     }
   }
-
-  /* =========================================
-     3. SPECIES GRID & BUTTONS
-     ========================================= */
   .species-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -114,6 +80,8 @@ title: Vitis Gap Analysis and Species Distribution Models
     margin-bottom: 10px;
   }
 </style>
+
+# Vitis Gap Analysis and Species Distribution Models  
 
 [← Back to Home](home)
 
