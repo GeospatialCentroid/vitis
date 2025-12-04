@@ -3,10 +3,79 @@ layout: post
 title: Vitis Gap Analysis and Species Distribution Models 
 ---
 <style>
-  /* Basic styling for the grid */
+  /* =========================================
+     1. SITE LAYOUT (Widen the Page)
+     ========================================= */
+  .container, .wrapper, .main-content, .site {
+      max-width: 95% !important; /* Uses 95% of the screen width */
+      width: 100% !important;
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+  }
+
+  /* Specific fix for the "Minimal" theme sidebar/content split */
+  @media screen and (min-width: 64em) {
+     .wrapper {
+        display: flex; /* Ensures sidebar and content sit side-by-side */
+        gap: 40px;     /* Space between sidebar and main content */
+     }
+     header { 
+        width: 250px !important; /* Keep sidebar fixed width */
+        flex-shrink: 0; 
+     }
+     section { 
+        width: auto !important; 
+        flex-grow: 1; 
+        max-width: none !important;
+     }
+  }
+
+  /* =========================================
+     2. IMAGE BANNER (Horizontal Layout)
+     ========================================= */
+  .image-banner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* FORCES 3 COLUMNS */
+    gap: 20px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  
+  .image-banner a {
+    display: block; 
+    text-decoration: none;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    transition: transform 0.2s;
+  }
+  
+  .image-banner a:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+  }
+
+  .image-banner img {
+    width: 100%;
+    height: 200px;       /* Keeps height consistent */
+    object-fit: cover;   /* Crops image to fit */
+    display: block;
+  }
+
+  /* Stack images only on very small mobile screens */
+  @media (max-width: 768px) {
+    .image-banner {
+      grid-template-columns: 1fr; 
+    }
+  }
+
+  /* =========================================
+     3. SPECIES GRID & BUTTONS
+     ========================================= */
   .species-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 15px;
     margin-top: 20px;
   }
@@ -15,7 +84,6 @@ title: Vitis Gap Analysis and Species Distribution Models
     border: 1px solid #e1e4e8;
     border-radius: 6px;
     padding: 10px 15px;
-    text-align: left;
     transition: transform 0.2s;
   }
   .species-card:hover {
@@ -29,7 +97,6 @@ title: Vitis Gap Analysis and Species Distribution Models
     font-weight: 500;
     display: block;
   }
-  /* Warning box style */
   .alert-box {
     background-color: #fff5b1;
     border-left: 5px solid #ffcc00;
@@ -44,35 +111,9 @@ title: Vitis Gap Analysis and Species Distribution Models
     text-decoration: none;
     display: inline-block;
     margin-right: 10px;
-  }
-  /* --- NEW BANNER STYLES --- */
-  .image-banner {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 Columns side-by-side */
-    gap: 15px;
-    margin-top: 25px;
-    margin-bottom: 30px;
-  }
-  .image-banner img {
-    width: 100%;
-    height: 200px;         /* Forces all images to same height */
-    object-fit: cover;     /* Crops the image to fit the box cleanly */
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-    transition: opacity 0.3s;
-  }
-  .image-banner img:hover {
-    opacity: 0.9;
-  }
-  
-  /* Make banner stack on mobile phones */
-  @media (max-width: 768px) {
-    .image-banner {
-      grid-template-columns: 1fr; 
-    }
+    margin-bottom: 10px;
   }
 </style>
-
 
 [← Back to Home](home)
 
