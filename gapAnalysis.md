@@ -1,37 +1,50 @@
 ---
 layout: null
-title: Vitis Gap Analysis and Species Distribution Models 
+title: Vitis Gap Analysis and Species Distribution Models
 ---
 <style>
+  /* Base Container */
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #24292e;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  /* Image Banner - FLEXBOX SETUP */
   .image-banner {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* FORCES 3 COLUMNS */
+    display: flex;           /* Enables horizontal layout */
+    justify-content: space-between;
     gap: 20px;
     margin-top: 25px;
     margin-bottom: 30px;
     width: 100%;
   }
   
-  .image-banner a {
-    display: block; 
-    text-decoration: none;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-    transition: transform 0.2s;
-  }
-  
-  .image-banner a:hover {
-    transform: translateY(-3px);
-    opacity: 0.9;
-  }
-
+  /* TARGET IMAGES DIRECTLY (Since you removed the links) */
   .image-banner img {
-    width: 100%;
-    height: 200px;       /* Keeps height consistent */
-    object-fit: cover;   /* Crops image to fit */
+    flex: 1;                 /* Each image grows equally */
+    width: 100%;             /* Fills its flex slot */
+    height: 200px;           /* Fixed height for uniformity */
+    object-fit: cover;       /* Crops image to fit the box */
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
     display: block;
   }
+
+  /* Responsive: Stack on mobile */
+  @media (max-width: 768px) {
+    .image-banner {
+      flex-direction: column;
+    }
+    .image-banner img {
+        height: 150px; 
+    }
+  }
+
+  /* Grid for Species Links */
   .species-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -74,8 +87,6 @@ title: Vitis Gap Analysis and Species Distribution Models
   }
 </style>
 
-# Vitis Gap Analysis and Species Distribution Models  
-
 [← Back to Home](home)
 
 <div class="alert-box">
@@ -88,11 +99,7 @@ These reports aggregate data across all species within the genus native to North
 <a href="m/run08282025_1k_Summary.html" class="btn-main" target="_blank"> Distributions & Gap Analysis</a>
 <a href="m/run08282025_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Descriptions</a>
 
-<div class="image-banner">
-  <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59477130/medium.jpeg" alt="Vitis riparia">
-  <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/236997516/original.jpg" alt="Vitis arizonica">
-  <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/221992855/original.jpg" alt="Vitis labrusca">
-</div>
+<div class="image-banner"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59477130/medium.jpeg" alt="Vitis riparia"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/236997516/original.jpg" alt="Vitis arizonica"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/221992855/original.jpg" alt="Vitis labrusca"></div>
 
 <br><br>
 
@@ -143,5 +150,3 @@ Select a species to view specific distribution models and gap analysis data.
   <div class="species-card"><a href="m/Vitis x doaniana_Summary_fnaFilter.html" target="_blank">Vitis x doaniana</a></div>
   <div class="species-card"><a href="m/Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank">Vitis x novae-angliae</a></div>
 </div>
-
-<br>
