@@ -90,7 +90,7 @@ title: Vitis Gap Analysis and Species Distribution Models
 [← Back to Home](home)
 
 <div class="alert-box">
-<strong>November 2025 Draft:</strong> All information presented on this site is attended to support the publication "Conservation gap analysis for wild grapevines (Vitis L.) of the Americas" which is currently in a presubmission state.
+<strong>December 2025 Draft:</strong> All information presented on this site is attended to support the publication "Conservation gap analysis for wild grapevines (Vitis L.) of the Americas" which is currently in a presubmission state.
 </div>
 
 ## Genus Level Summary
@@ -105,8 +105,8 @@ These reports aggregate data across all species within the genus native to North
 
 ---
 
-# Individual Species Reports
-Select a species to view specific distribution models and gap analysis data.
+# Individual Taxa Reports
+Select a taxon to view distribution models and conservation gap analysis results.
 
 <div class="species-grid">
   <div class="species-card"><a href="m/Vitis acerifolia_Summary_fnaFilter.html" target="_blank">Vitis acerifolia</a></div>
