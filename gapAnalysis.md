@@ -90,7 +90,8 @@ title: Vitis Gap Analysis and Species Distribution Models
 [← Back to Home](home)
 
 <div class="alert-box">
-<strong>December 2025 Draft:</strong> All information presented on this site is attended to support the publication "Conservation gap analysis for wild grapevines (Vitis L.) of the Americas" which is currently in a presubmission state.
+<strong>December 2025 Draft:</strong> 
+The information presented on this site supports the publication “Conservation gap analysis for wild grapevines (Vitis L.) of the Americas” which is currently submitted to Plants, People, Planet. This site will be publicly released in parallel with publication of the article. 
 </div>
 
 ## Genus Level Summary
