@@ -3,17 +3,16 @@ layout: null
 title: Vitis Gap Analysis and Species Distribution Models
 ---
 <style>
-  /* Base Container */
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    color: #24292e;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-
-  /* Image Banner - FLEXBOX SETUP */
+/* Base Container */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #24292e;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+/* Image Banner - FLEXBOX SETUP */
   .image-banner {
     display: flex;           /* Enables horizontal layout */
     justify-content: space-between;
@@ -23,9 +22,15 @@ title: Vitis Gap Analysis and Species Distribution Models
     width: 100%;
   }
   
-  /* TARGET IMAGES DIRECTLY (Since you removed the links) */
-  .image-banner img {
-    flex: 1;                 /* Each image grows equally */
+  /* WRAPPER FOR IMG + CITATION */
+  .image-item {
+    flex: 1;                 /* Each wrapper grows equally */
+    display: flex;
+    flex-direction: column;  /* Stack image and text vertically */
+  }
+
+  /* TARGET IMAGES DIRECTLY */
+  .image-item img {
     width: 100%;             /* Fills its flex slot */
     height: 200px;           /* Fixed height for uniformity */
     object-fit: cover;       /* Crops image to fit the box */
@@ -34,13 +39,29 @@ title: Vitis Gap Analysis and Species Distribution Models
     display: block;
   }
 
+  /* CITATION STYLE */
+  .photo-credit {
+    font-size: 0.75rem;
+    color: #586069;
+    margin-top: 6px;
+    text-align: right;       /* Aligns text to the right, optional */
+    line-height: 1.3;
+  }
+  .photo-credit a {
+    color: #586069;
+    text-decoration: none;
+  }
+  .photo-credit a:hover {
+    text-decoration: underline;
+  }
+
   /* Responsive: Stack on mobile */
   @media (max-width: 768px) {
     .image-banner {
       flex-direction: column;
     }
-    .image-banner img {
-        height: 150px; 
+    .image-item img {
+      height: 150px; 
     }
   }
 
@@ -100,7 +121,31 @@ These reports aggregate data across all species within the genus native to North
 <a href="m/run08282025_1k_Summary.html" class="btn-main" target="_blank"> Distributions & Gap Analysis</a>
 <a href="m/run08282025_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Descriptions</a>
 
-<div class="image-banner"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59477130/medium.jpeg" alt="Vitis riparia"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/236997516/original.jpg" alt="Vitis arizonica"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/221992855/original.jpg" alt="Vitis labrusca"></div>
+<div class="image-banner">
+<div class="image-item">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59477130/medium.jpeg" alt="Vitis riparia">
+<div class="photo-credit">
+<em>Vitis riparia</em><br>
+Photo: <a href="https://www.inaturalist.org/photos/59477130" target="_blank">iNaturalist</a>
+</div>
+</div>
+
+<div class="image-item">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/236997516/original.jpg" alt="Vitis arizonica">
+<div class="photo-credit">
+<em>Vitis arizonica</em><br>
+Photo: <a href="https://www.inaturalist.org/photos/236997516" target="_blank">iNaturalist</a>
+</div>
+</div>
+
+<div class="image-item">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/221992855/original.jpg" alt="Vitis labrusca">
+<div class="photo-credit">
+<em>Vitis labrusca</em><br>
+Photo: <a href="https://www.inaturalist.org/photos/221992855" target="_blank">iNaturalist</a>
+</div>
+</div>
+</div>
 
 <br><br>
 
