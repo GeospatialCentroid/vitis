@@ -126,7 +126,7 @@ These reports aggregate data across all species within the genus native to North
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59477130/medium.jpeg" alt="Vitis riparia">
 <div class="photo-credit">
 <em>Vitis riparia</em><br>
-Photo: <a href="https://www.inaturalist.org/photos/59477130" target="_blank">iNaturalist</a>
+Photo by <a href="https://www.inaturalist.org/photos/59477130" target="_blank">roomthily</a> (CC BY-NC)
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Photo: <a href="https://www.inaturalist.org/photos/59477130" target="_blank">iNa
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/236997516/original.jpg" alt="Vitis arizonica">
 <div class="photo-credit">
 <em>Vitis arizonica</em><br>
-Photo: <a href="https://www.inaturalist.org/photos/236997516" target="_blank">iNaturalist</a>
+Photo by <a href="https://www.inaturalist.org/photos/236997516" target="_blank">nikkiro</a> (CC BY-NC)
 </div>
 </div>
 
@@ -142,10 +142,10 @@ Photo: <a href="https://www.inaturalist.org/photos/236997516" target="_blank">iN
 <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/221992855/original.jpg" alt="Vitis labrusca">
 <div class="photo-credit">
 <em>Vitis labrusca</em><br>
-Photo: <a href="https://www.inaturalist.org/photos/221992855" target="_blank">iNaturalist</a>
+Photo by <a href="https://www.inaturalist.org/photos/221992855" target="_blank"> tylerdonaghy</a> (CC BY-NC)
 </div>
 </div>
-</div>
+</div>>
 
 <br><br>
 
