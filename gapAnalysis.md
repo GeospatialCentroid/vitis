@@ -115,11 +115,11 @@ body {
 The information presented on this site supports the publication “Conservation gap analysis for wild grapevines (Vitis L.) of the Americas” which is currently submitted to Plants, People, Planet. This site will be publicly released in parallel with publication of the article. 
 </div>
 
-## Genus Level Summary
-These reports aggregate data across all species within the genus native to North America.
+## Summary Reports
+These reports aggregate data across all assessed taxa
 
 <a href="m/run08282025_1k_Summary.html" class="btn-main" target="_blank"> Distributions & Gap Analysis</a>
-<a href="m/run08282025_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Descriptions</a>
+<a href="m/run08282025_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Characterization</a>
 
 <div class="image-banner">
 <div class="image-item">
@@ -152,7 +152,7 @@ Photo by <a href="https://www.inaturalist.org/photos/221992855" target="_blank">
 ---
 
 # Individual Taxa Reports
-Select a taxon to view distribution models and conservation gap analysis results.
+Select a taxon to view its distribution model and conservation gap analysis results.
 
 <div class="species-grid">
   <div class="species-card"><a href="m/Vitis acerifolia_Summary_fnaFilter.html" target="_blank">Vitis acerifolia</a></div>
