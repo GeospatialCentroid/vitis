@@ -4,16 +4,13 @@ title: #
 author: Dan Carver
 ---
 
-# Vitis Conservation Assessment Effort 
+# Wild *Vitis* of the Americas Conservation Assessment Effort
 
-This project includes two primary data outputs county maps and modeled distributions
+This project includes two primary data outputs: 1. county-level maps, and 2. modeled distributions, ecogeographic characterization, and conservation gap analysis results.
+## [County-level maps](countyReports)
 
-## [County Evaluation reports](countyReports)
+These reports are used to evaluate the current (01-2024) extent of the digital records available for native North American Vitis taxa. The presence of the taxon in a county along with the specific location of a record based on latitude and longitude values can be evaluated by experts for accuracy. The end goal is to develop, updated, accurate county-level distributions.
 
-This reports maps are used to evaluate the current (01-2024) exent of the digitial records available for native North American Vitis taxon. The presence of the a species in a county along with the specific location of a record based on latitude and longitude values can be evaluated for accurcy. The end goal is to develop an updated county level evaluation of the distribution of these species. 
+## [Modeled distributions, Ecogeographic Characterization, and Conservation Gap Analysis Results.](gapAnalysis)
 
-
-## [Gap Analysis and Species Distribution Model reports](gapAnalysis)
-
-These reports contain a series of a maps, tables, and charts to summaries the species distribution modeling and conservation gap analysis results. 
-
+These reports contain a series of maps, tables, and charts that summarize species distribution modeling, ecogeographic characterization, and conservation gap analysis results.
