@@ -42,11 +42,9 @@ For a description on how to use these assessment tools please reference the foll
 <a href="c/Vitis palmata_Evaluation.html"  target="_blank">  Vitis palmata</a>  
 <a href="c/Vitis riparia_Evaluation.html"  target="_blank">  Vitis riparia</a>  
 <a href="c/Vitis rotundifolia_Evaluation.html"  target="_blank">  Vitis rotundifolia</a>
-<!---
 <a href="c/Vitis rotundifolia var. munsoniana_Evaluation.html"  target="_blank">  Vitis rotundifolia var. munsoniana</a>  
 <a href="c/Vitis rotundifolia var. pygmaea_Evaluation.html"  target="_blank">  Vitis rotundifolia var. pygmaea</a>  
 <a href="c/Vitis rotundifolia var. rotundifolia_Evaluation.html"  target="_blank">  Vitis rotundifolia var. rotundifolia</a>     
---->
 <a href="c/Vitis rufotomentosa_Evaluation.html"  target="_blank">  Vitis rufotomentosa</a>  
 <a href="c/Vitis rupestris_Evaluation.html"  target="_blank">  Vitis rupestris</a>  
 <a href="c/Vitis shuttleworthii_Evaluation.html"  target="_blank">  Vitis shuttleworthii</a>  
