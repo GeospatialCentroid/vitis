@@ -111,7 +111,7 @@ body {
 [← Back to Home](home)
 
 <div class="alert-box">
-<strong>December 2025 Draft:</strong> 
+<strong>May 2026 Draft:</strong> 
 The information presented on this site supports the publication “Conservation gap analysis for wild grapevines (Vitis L.) of the Americas” which is currently submitted to Plants, People, Planet. This site will be publicly released in parallel with publication of the article. 
 </div>
 
