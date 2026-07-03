@@ -90,12 +90,6 @@ body {
     font-weight: 500;
     display: block;
   }
-  .alert-box {
-    background-color: #fff5b1;
-    border-left: 5px solid #ffcc00;
-    padding: 15px;
-    margin-bottom: 20px;
-  }
   .btn-main {
     background-color: #2ea44f;
     color: white !important;
@@ -106,14 +100,25 @@ body {
     margin-right: 10px;
     margin-bottom: 10px;
   }
+  /* Footer Style */
+  .site-footer {
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #e1e4e8;
+    font-size: 0.85rem;
+    color: #586069;
+    text-align: center;
+  }
+  .site-footer a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  .site-footer a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 [← Back to Home](home)
-
-<div class="alert-box">
-<strong>May 2026 Draft:</strong> 
-The information presented on this site supports the publication “Conservation gap analysis for wild grapevines (Vitis L.) of the Americas” which is currently submitted to Plants, People, Planet. This site will be publicly released in parallel with publication of the article. 
-</div>
 
 ## Summary Reports
 These reports aggregate data across all assessed taxa
@@ -145,7 +150,7 @@ Photo by <a href="https://www.inaturalist.org/photos/236997516" target="_blank">
 Photo by <a href="https://www.inaturalist.org/photos/221992855" target="_blank"> tylerdonaghy</a> (CC BY-NC)
 </div>
 </div>
-</div>>
+</div>
 
 <br><br>
 
@@ -196,3 +201,8 @@ Select a taxon to view its distribution model and conservation gap analysis resu
   <div class="species-card"><a href="m/Vitis x doaniana_Summary_fnaFilter.html" target="_blank">Vitis x doaniana</a></div>
   <div class="species-card"><a href="m/Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank">Vitis x novae-angliae</a></div>
 </div>
+
+<footer class="site-footer">
+  <p>The information presented on this site accompanies the publication:<br>
+  Carver D, Khoury CK, Frances A, McCarry N, Diaz-Garcia L, Galarneau E, Gora S, Haidet M, Heinitz C, Knapp W, Meyer A, Miller A, Mims R, Sapkota S, Spurrier C, and Wen J (2026) Conservation gap analysis for wild grapevines (Vitis L.) of the Americas. <em>Plants People Planet</em>. doi: 10.1002/ppp3.70246. <a href="https://doi.org/10.1002/ppp3.70246" target="_blank">https://doi.org/10.1002/ppp3.70246</a></p>
+</footer>
