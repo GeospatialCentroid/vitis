@@ -120,11 +120,13 @@ body {
 
 [← Back to Home](home)
 
+> **Updated October 2026** with the corrected taxonomy (see the corrigendum). The documents as published, from the August 2025 run, are kept unchanged on the [published version page](gapAnalysisPublished2025) for side-by-side comparison.
+
 ## Summary Reports
 These reports aggregate data across all assessed taxa
 
-<a href="m/run08282025_1k_Summary.html" class="btn-main" target="_blank"> Distributions & Gap Analysis</a>
-<a href="m/run08282025_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Characterization</a>
+<a href="m/runAggregate2026_1k_Summary.html" class="btn-main" target="_blank"> Distributions & Gap Analysis</a>
+<a href="m/runAggregate2026_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Characterization</a>
 
 <div class="image-banner">
 <div class="image-item">

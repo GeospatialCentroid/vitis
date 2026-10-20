@@ -1,0 +1,210 @@
+---
+layout: null
+title: Vitis Gap Analysis, version as published (August 2025 run)
+---
+<style>
+/* Base Container */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #24292e;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+/* Image Banner - FLEXBOX SETUP */
+  .image-banner {
+    display: flex;           /* Enables horizontal layout */
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  
+  /* WRAPPER FOR IMG + CITATION */
+  .image-item {
+    flex: 1;                 /* Each wrapper grows equally */
+    display: flex;
+    flex-direction: column;  /* Stack image and text vertically */
+  }
+
+  /* TARGET IMAGES DIRECTLY */
+  .image-item img {
+    width: 100%;             /* Fills its flex slot */
+    height: 200px;           /* Fixed height for uniformity */
+    object-fit: cover;       /* Crops image to fit the box */
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    display: block;
+  }
+
+  /* CITATION STYLE */
+  .photo-credit {
+    font-size: 0.75rem;
+    color: #586069;
+    margin-top: 6px;
+    text-align: right;       /* Aligns text to the right, optional */
+    line-height: 1.3;
+  }
+  .photo-credit a {
+    color: #586069;
+    text-decoration: none;
+  }
+  .photo-credit a:hover {
+    text-decoration: underline;
+  }
+
+  /* Responsive: Stack on mobile */
+  @media (max-width: 768px) {
+    .image-banner {
+      flex-direction: column;
+    }
+    .image-item img {
+      height: 150px; 
+    }
+  }
+
+  /* Grid for Species Links */
+  .species-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+  }
+  .species-card {
+    background: #f9f9f9;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 10px 15px;
+    transition: transform 0.2s;
+  }
+  .species-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-color: #0366d6;
+  }
+  .species-card a {
+    text-decoration: none;
+    color: #0366d6;
+    font-weight: 500;
+    display: block;
+  }
+  .btn-main {
+    background-color: #2ea44f;
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  /* Footer Style */
+  .site-footer {
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid #e1e4e8;
+    font-size: 0.85rem;
+    color: #586069;
+    text-align: center;
+  }
+  .site-footer a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  .site-footer a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+[← Back to Home](home)
+
+> **Version as published (August 2025 run)**, kept for comparison. The current results, updated October 2026, are on the [gap analysis page](gapAnalysis).
+
+## Summary Reports
+These reports aggregate data across all assessed taxa
+
+<a href="m_published2025/run08282025_1k_Summary.html" class="btn-main" target="_blank"> Distributions & Gap Analysis</a>
+<a href="m_published2025/run08282025_1k_boxPlotSummary.html" class="btn-main" target="_blank"> Ecogeographic Characterization</a>
+
+<div class="image-banner">
+<div class="image-item">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/59477130/medium.jpeg" alt="Vitis riparia">
+<div class="photo-credit">
+<em>Vitis riparia</em><br>
+Photo by <a href="https://www.inaturalist.org/photos/59477130" target="_blank">roomthily</a> (CC BY-NC)
+</div>
+</div>
+
+<div class="image-item">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/236997516/original.jpg" alt="Vitis arizonica">
+<div class="photo-credit">
+<em>Vitis arizonica</em><br>
+Photo by <a href="https://www.inaturalist.org/photos/236997516" target="_blank">nikkiro</a> (CC BY-NC)
+</div>
+</div>
+
+<div class="image-item">
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/221992855/original.jpg" alt="Vitis labrusca">
+<div class="photo-credit">
+<em>Vitis labrusca</em><br>
+Photo by <a href="https://www.inaturalist.org/photos/221992855" target="_blank"> tylerdonaghy</a> (CC BY-NC)
+</div>
+</div>
+</div>
+
+<br><br>
+
+---
+
+# Individual Taxa Reports
+Select a taxon to view its distribution model and conservation gap analysis results.
+
+<div class="species-grid">
+  <div class="species-card"><a href="m_published2025/Vitis acerifolia_Summary_fnaFilter.html" target="_blank">Vitis acerifolia</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis aestivalis_Summary_fnaFilter.html" target="_blank">Vitis aestivalis</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis aestivalis var. aestivalis_Summary_fnaFilter.html" target="_blank">V. aestivalis var. aestivalis</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis aestivalis var. bicolor_Summary_fnaFilter.html" target="_blank">V. aestivalis var. bicolor</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis arizonica_Summary_fnaFilter.html" target="_blank">Vitis arizonica</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis baileyana_Summary_fnaFilter.html" target="_blank">Vitis baileyana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis berlandieri_Summary_fnaFilter.html" target="_blank">Vitis berlandieri</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis biformis_Summary_fnaFilter.html" target="_blank">Vitis biformis</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis blancoi_Summary_fnaFilter.html" target="_blank">Vitis blancoi</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis bloodworthiana_Summary_fnaFilter.html" target="_blank">Vitis bloodworthiana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis bourgaeana_Summary_fnaFilter.html" target="_blank">Vitis bourgaeana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis californica_Summary_fnaFilter.html" target="_blank">Vitis californica</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis cinerea_Summary_fnaFilter.html" target="_blank">Vitis cinerea</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis cinerea var. cinerea_Summary_fnaFilter.html" target="_blank">V. cinerea var. cinerea</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis cinerea var. tomentosa_Summary_fnaFilter.html" target="_blank">V. cinerea var. tomentosa</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis girdiana_Summary_fnaFilter.html" target="_blank">Vitis girdiana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis jaegeriana_Summary_fnaFilter.html" target="_blank">Vitis jaegeriana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis labrusca_Summary_fnaFilter.html" target="_blank">Vitis labrusca</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis lincecumii_Summary_fnaFilter.html" target="_blank">Vitis lincecumii</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis martineziana_Summary_fnaFilter.html" target="_blank">Vitis martineziana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis monticola_Summary_fnaFilter.html" target="_blank">Vitis monticola</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis munsoniana_Summary_fnaFilter.html" target="_blank">Vitis munsoniana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis mustangensis_Summary_fnaFilter.html" target="_blank">Vitis mustangensis</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis nesbittiana_Summary_fnaFilter.html" target="_blank">Vitis nesbittiana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis novogranatensis_Summary_fnaFilter.html" target="_blank">Vitis novogranatensis</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis palmata_Summary_fnaFilter.html" target="_blank">Vitis palmata</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis peninsularis_Summary_fnaFilter.html" target="_blank">Vitis peninsularis</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis popenoei_Summary_fnaFilter.html" target="_blank">Vitis popenoei</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis riparia_Summary_fnaFilter.html" target="_blank">Vitis riparia</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis rotundifolia_Summary_fnaFilter.html" target="_blank">Vitis rotundifolia</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis rubriflora_Summary_fnaFilter.html" target="_blank">Vitis rubriflora</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis rufotomentosa_Summary_fnaFilter.html" target="_blank">Vitis rufotomentosa</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis rupestris_Summary_fnaFilter.html" target="_blank">Vitis rupestris</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis shuttleworthii_Summary_fnaFilter.html" target="_blank">Vitis shuttleworthii</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis simpsonii_Summary_fnaFilter.html" target="_blank">Vitis simpsonii</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis tiliifolia_Summary_fnaFilter.html" target="_blank">Vitis tiliifolia</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis vulpina_Summary_fnaFilter.html" target="_blank">Vitis vulpina</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis x champinii_Summary_fnaFilter.html" target="_blank">Vitis x champinii</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis x doaniana_Summary_fnaFilter.html" target="_blank">Vitis x doaniana</a></div>
+  <div class="species-card"><a href="m_published2025/Vitis x novae-angliae_Summary_fnaFilter.html" target="_blank">Vitis x novae-angliae</a></div>
+</div>
+
+<footer class="site-footer">
+  <p>The information presented on this site accompanies the publication:<br>
+  Carver D, Khoury CK, Frances A, McCarry N, Diaz-Garcia L, Galarneau E, Gora S, Haidet M, Heinitz C, Knapp W, Meyer A, Miller A, Mims R, Sapkota S, Spurrier C, and Wen J (2026) Conservation gap analysis for wild grapevines (Vitis L.) of the Americas. <em>Plants People Planet</em>. doi: 10.1002/ppp3.70246. <a href="https://doi.org/10.1002/ppp3.70246" target="_blank">https://doi.org/10.1002/ppp3.70246</a></p>
+</footer>
